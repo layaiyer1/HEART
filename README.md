@@ -1,4 +1,4 @@
-# Read our paper!
+# Read the paper!
 
 https://arxiv.org/pdf/2601.19922
 
