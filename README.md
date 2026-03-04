@@ -1,3 +1,7 @@
+# Read our paper!
+
+https://arxiv.org/pdf/2601.19922
+
 # Model Evaluation Pipeline
 
 This repository contains scripts for evaluating new models on emotional support dialogue tasks. The evaluation pipeline consists of three main steps:
